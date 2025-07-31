@@ -41,6 +41,6 @@ As the founding protocol engineer, you will be responsible for architecting and 
 - Work in ZK or privacy-preserving tech
 - OSS contributions in blockchain privacy spaces
 
-If you're interested in joining Mirage, please reach out via email to mirage@codeandstate.com and include the following: full name, GitHub or relevant code repositories, resume or CV, a brief note on why you wish to join us, any relevant links (e.g., X, LinkedIn, personal site).
+If you're interested in joining Mirage, please reach out via email to whisper@mirageprivacy.com and include the following: full name, GitHub or relevant code repositories, resume or CV, a brief note on why you wish to join us, any relevant links (e.g., X, LinkedIn, personal site).
 
 We're looking for clarity, intent, and proof of work.

@@ -43,6 +43,6 @@ As the founding protocol researcher, you will probe the network for privacy vuln
 - Research/engineering in privacy-first blockchain tools
 - Published work in academic or applied blockchain research
 
-If you're interested in joining Mirage, please reach out via email to mirage@codeandstate.com and include the following: full name, GitHub or relevant code repositories, resume or CV, a brief note on why you wish to join us, any relevant links (e.g., X, LinkedIn, personal site).
+If you're interested in joining Mirage, please reach out via email to whisper@mirageprivacy.com and include the following: full name, GitHub or relevant code repositories, resume or CV, a brief note on why you wish to join us, any relevant links (e.g., X, LinkedIn, personal site).
 
 We're looking for clarity, intent, and proof of work.
