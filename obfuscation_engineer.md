@@ -40,6 +40,6 @@ As the founding obfuscation engineer, you will operate within an intensely adver
 - Understanding of Ethereum consensus and execution
 - Academic or independent work in compilers, PL theory, or verification
 
-If you're interested in joining Mirage, please reach out via email to mirage@codeandstate.com and include the following: full name, GitHub or relevant code repositories, resume or CV, a brief note on why you wish to join us, any relevant links (e.g., X, LinkedIn, personal site).
+If you're interested in joining Mirage, please reach out via email to whisper@mirageprivacy.com and include the following: full name, GitHub or relevant code repositories, resume or CV, a brief note on why you wish to join us, any relevant links (e.g., X, LinkedIn, personal site).
 
 We're looking for clarity, intent, and proof of work.
