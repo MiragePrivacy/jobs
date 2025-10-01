@@ -6,6 +6,5 @@ To apply, please send your resume and any relevant materials to whisper@miragepr
 
 ## Currently Hiring
 
-- [Founding Protocol Engineer](./protocol_engineer.md): Help build a novel peer-to-peer network that operates independently of blockchain architecture. You'll be shaping the foundation of Mirage’s core technology.
-- [Founding Obfuscation Engineer](./obfuscation_engineer.md): Take on the challenge of resisting mass surveillance and reverse engineering. Your work will strengthen Mirage’s privacy and security at the lowest levels.
-- [Founding Protocol Researcher](./protocol_researcher.md): Push Mirage to its limits. Identify weaknesses, exploit them, and innovate beyond them. If you love breaking systems to make them stronger, we want to hear from you.
+- [Full-stack Developer](./fullstack_dev.md): Build the interface that brings privacy technology to users. You'll create web applications that handle sensitive cryptographic operations while maintaining exceptional usability.
+- [Community Lead](./community_lead.md): Build Mirage's community from zero and translate complex privacy technology into compelling narratives. You'll establish credibility and grow awareness in crypto's most technically sophisticated circles.
