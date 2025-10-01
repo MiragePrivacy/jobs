@@ -16,20 +16,6 @@ This makes Mirage a uniquely intense place to build.
 
 As the full-stack developer, you will build the interface through which users interact with Mirage. You will architect high-performance web applications that handle sensitive cryptographic operations while maintaining exceptional usability in an adversarial environment
 
-**You Should Have:**
-
-- 2+ years building high-performance web applications with demonstrated results
-- Deep expertise in Next.js and React
-- Proven experience building crypto frontends with wallet integrations
-- Strong understanding of client-side state management in complex, stateful applications
-- Understanding of web security best practices, especially in crypto contexts
-
-**Bonus Points:**
-
-- Experience building privacy-focused applications
-- Background in performance optimization for cryptographically intensive operations
-- Understanding of Ethereum protocol internals and transaction lifecycle
-
 **What You'll Do:**
 
 - Build and maintain Mirage's web application with whatever stack makes sense (currently considering Next.js/React, Svelte, or similar)
