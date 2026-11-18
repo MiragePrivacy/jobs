@@ -16,15 +16,17 @@ If this sounds intimidating, you're not who we're looking for. If it sounds like
 
 ---
 
-## Founding Obfuscation Engineer
+## Founding Bytecode Camouflage Engineer
 
-As the founding obfuscation engineer, you will operate within an intensely adversarial domain in which all produced artifacts are fully transparent and subject to public scrutiny. Your objective is not to conceal code, but to render reverse engineering prohibitively expensive. This requires a high degree of technical sophistication and strategic creativity. You will engage daily with advanced obfuscation methodologies, conduct empirical experiments to assess their efficacy, deconstruct and analyze existing Ethereum smart contracts at the bytecode level, and iteratively refine a robust, deterministic EVM obfuscator.
+This is a past role. See the [jobs index](README.md) for current openings.
 
-**What You’ll Do:**
+This role focused on Azoth, Mirage's tool for producing reproducible variants of Ethereum contract bytecode. The work combines compiler engineering, correctness testing, and research into which bytecode patterns remain visible across deployments.
 
-- Architect and implement a deterministic EVM bytecode obfuscator.
-- Design rigorous test frameworks to validate correctness.
-- Apply formal methods to verify safety and resilience.
+**What You’ll Do**
+
+- Design and implement deterministic EVM bytecode transforms.
+- Build test frameworks to check contract behavior before and after transformation.
+- Measure which patterns persist across versions and seeds.
 
 **You Should Have:**
 
@@ -39,7 +41,3 @@ As the founding obfuscation engineer, you will operate within an intensely adver
 - Cryptographic engineering background
 - Understanding of Ethereum consensus and execution
 - Academic or independent work in compilers, PL theory, or verification
-
-If you're interested in joining Mirage, please reach out via email to whisper@mirageprivacy.com and include the following: full name, GitHub or relevant code repositories, resume or CV, a brief note on why you wish to join us, any relevant links (e.g., X, LinkedIn, personal site).
-
-We're looking for clarity, intent, and proof of work.
